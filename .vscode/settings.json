@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "database-1.cutcgdvtwzti.sa-east-1.rds.amazonaws.com",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "root",
+      "username": "admin",
+      "password": "agronegocio06",
+      "database": "mydb"
+    }
+  ]
+}

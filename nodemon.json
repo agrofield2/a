@@ -1,0 +1,11 @@
+{
+  "env":{
+    "MYSQLDATABASE":"railway",
+    "MYSQLHOST":"containers-us-west-51.railway.app",
+    "MYSQLPASSWORD":"m34azdXj091qWxcJ6j8u",
+    "MYSQLPORT":6571,
+    "MYSQLUSER":"root",
+    "PORT":3030,
+    "MYSQLURL":"mysql://${{ MYSQLUSER }}:${{ MYSQLPASSWORD }}@${{ MYSQLHOST }}:${{"
+  }
+}
